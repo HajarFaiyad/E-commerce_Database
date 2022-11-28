@@ -1,7 +1,7 @@
-# E-commerce_Database
+# E-commerce Database
 Database design and implementation for an e-commerce project. 
 
-# What I Learned:-
+# What I Learned
 
 * Designing a database from scratch.
 * Implementing a database using MySQL.
